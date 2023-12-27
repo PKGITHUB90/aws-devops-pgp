@@ -1,6 +1,6 @@
-custombucket = "rds--source"
+custombucket = "aws-devops-pgp-s3bucket"
 table = "intellipaat"
-databasehost = "database-1.czwalaijacr8.us-east-1.rds.amazonaws.com"
+databasehost = "intellipaat.cnocegoqwzg9.us-east-1.rds.amazonaws.com"
 duser = "intellipaat"
 dpass = "intellipaat123"
 s3database = "intellipaat"
